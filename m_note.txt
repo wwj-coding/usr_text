@@ -11,4 +11,8 @@ git commands:
 	git status 查看本地库状态
 	git reflog 查看历史版本信息
 	git log 详细查看历史版本信息
+	
+	版本穿梭:
+		git reset --hard 版本号
+		通过head指针指向某个分支的某个版本
 
