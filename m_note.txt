@@ -4,3 +4,11 @@
 	It's my first release!
 		      2026/3/1
 		        weijun
+git commands:
+	git init：初始化本地库
+	git add 文件名 将文件添加到暂存区
+	git commit -m "text" 文件名 提交到本地库
+	git status 查看本地库状态
+	git reflog 查看历史版本信息
+	git log 详细查看历史版本信息
+
