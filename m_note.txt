@@ -29,5 +29,7 @@ git commands:
 
 	git push 远程库名 分支名 把本地库的某个分支推送到远程库
 	git pull 远程库名 分支名 把远程库拉取到本地库
+	
+	git clone 远程库地址 克隆远程库(不需要登陆github账号)
 
                                                      
